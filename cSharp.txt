@@ -1,0 +1,40 @@
+1. Floats only have a memory storage of 4 bytes, but doubles have 8 bytes of memory.
+2. 
+
+2. Floats and doubles cannot accurately represent base 10 multiples for dealing with financial values because it doesn't roundoff without tiny errors. Meaning floats and doubles data types are prone to errors, so it is advisable to use "decimal".
+
+Decimal is suitable this types of financial transaction because it has more precise and has a smaller range
+
+3. Given the statement:
+string[] str1 = new string[100];
+string[] temp;
+str1[0] = "Hailey";
+
+temp = str1 
+The value of temp will be => System.String[]
+
+
+4.          ushort num1 = 52130;
+            sbyte num2 = -115;
+            int num3 = 4825932;
+            byte num4 = 97;
+            short num5 = -10000;
+            int num6 = 20000;
+            byte num7 = 224;
+            long num8 = 970700000;
+            short num9 = 112;
+            sbyte num10 = -44;
+            int num11 = -1000000;
+            short num12 = 1990;
+            long num13 = 123456789123456789;
+
+5. (-5) is the value that can be assigned to the decimal data type
+
+9. An Expression, basically is a mathematical wording that contains numbers, operations and variables. 
+
+13. if (x=y);
+{
+    //some code
+}
+
+This expression will return "name x is not found" amd "name y is not found"
